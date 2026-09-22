@@ -10,10 +10,10 @@
 
 ## Артефакты тестирования
 
-- [Чек-лист веб-формы](docs/checklist.md)
-- [API test cases](docs/api-test-cases.md)
-- [Баг-репорты](docs/bug-reports.md)
-- [Рекомендации](docs/recommendations.md)
+[Чек-лист веб-формы](checklist.md)
+[API test cases](api-test-cases.md)
+[Баг-репорты](bug-reports.md)
+[Рекомендации](recommendations.md)
 
 ---
 
